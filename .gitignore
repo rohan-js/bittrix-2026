@@ -1,0 +1,34 @@
+# Simulation artifacts
+sim_questa/work/
+sim_questa/transcript
+sim_questa/vsim.wlf
+sim_questa/wlf*
+sim_questa/*.log
+
+# Cocotb artifacts
+sim_cocotb/sim_build/
+sim_cocotb/__pycache__/
+sim_cocotb/results.xml
+sim_cocotb/dump.vcd
+sim_cocotb/*.vcd
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Editor/IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Backup files
+*~
+*.bak
+*.orig
