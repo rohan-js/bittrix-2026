@@ -79,7 +79,7 @@ hdelta[n] = (ydelta[n] - SUM(h[k] * x[n-k], k=0 to n-1)) / x[0]
 
 ### 2.3 Datapath Block Diagram
 
-![Datapath Block Diagram](photos/Datapath.png)
+![Datapath Block Diagram](photos/Datapath.png?v=2)
 
 ### 2.4 Pipeline State Machine
 
