@@ -237,13 +237,3 @@ See [DOCUMENTATION.md](DOCUMENTATION.md) for complete details.
 - **[SUMMARY.md](SUMMARY.md)** - Quick reference and competition summary
 
 ---
-
-## License
-
-This project was developed for the Bit-Trix 2026 hardware-software co-design competition at IIITDM Kancheepuram.
-
----
-
-**Last Updated**: March 30, 2026  
-**Version**: ISA v6 (Final)  
-**Status**: Ready for Submission
