@@ -1,4 +1,4 @@
-# Bit-Trix 2026 - 8-bit CPU Design
+# 8-bit CPU Design
 
 **Competition**: Bit-Trix 2026 @ IIITDM Kancheepuram  
 **Status**: COMPLETE - ALL TESTS PASSED  
